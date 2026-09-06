@@ -1,0 +1,6 @@
+{
+  "name": "Oven & Earth - Empanadas POS & Cocina",
+  "description": "Sistema táctil de comandas, despacho WhatsApp, punto de venta de empanadas, control de horneadas y caja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
